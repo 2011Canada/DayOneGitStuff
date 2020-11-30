@@ -54,7 +54,6 @@
 - Lionel Messi
 - CR7
 - Krystyna
-=======
 - Marco Reus
 
 ## Favorite Animal
