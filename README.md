@@ -19,6 +19,9 @@
 - Hamza
 - Stephen
 -Arjun
+- Arjun
+- Rous
+- Uzair
 - Antardeep
 - Heng
 - Ramninder
@@ -35,6 +38,7 @@
 - Horse
 - Wolf
 - dog
+- Horse
 - Elephant
 
 
