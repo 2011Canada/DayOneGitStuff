@@ -19,17 +19,28 @@
 - Matthew
 - Hamza
 - Stephen
--Arjun
+  -Arjun
 - Arjun
 - Rous
 - Nidhi
 - Hamza
 - Uzair
+  <<<<<<< HEAD
+  =======
+  <<<<<<< HEAD
+- # Manik
+  =======
+  > > > > > > > 0af3596bdfdb6dbc29b4d9822e2054324be7acb4
+  > > > > > > > d0833310e1870344c669f8fd36f7001b36765256
 - Manik
 - Antardeep
 - Heng
 - Ramninder
 - Stephen W
+  <<<<<<< HEAD
+  =======
+
+> > > > > > > d0833310e1870344c669f8fd36f7001b36765256
 
 ## Favourite Animal
 
@@ -43,9 +54,15 @@
 - Wolf
 - dog
 - Horse
+  <<<<<<< HEAD
+  =======
+  <<<<<<< HEAD
+- # Lion
+  =======
+  > > > > > > > 0af3596bdfdb6dbc29b4d9822e2054324be7acb4
+  > > > > > > > d0833310e1870344c669f8fd36f7001b36765256
 - Lion
 - Elephant
-
 
 ## Favourite Band
 
@@ -59,7 +76,6 @@
 - Dill Pickle
 - Lightly Salted
 
-
 ## Favourite (spelled the correct way) soccer player
 
 - Lionel Messi
@@ -68,6 +84,7 @@
 - Marco Reus
 - Mesut Ozil
 - Kaka
+- Zlatan Ibrahimović
 
 ## Favorite Game
 
