@@ -17,6 +17,9 @@
 - Robert'); DROP TABLE students;--
 - Matthew
 - Stephen
+- Antardeep
+- Heng
+- Ramninder
 
 ## Favourite Animal
 
@@ -27,6 +30,7 @@
 - Zebra
 - Cat
 - Wolf
+- Elephant
 
 ## Favourite Band
 
