@@ -7,6 +7,7 @@
 - Jinyeong
 - Samin 
 - Henry
+- Haocheng
 
 ## Favorite Animal
 - Octopus
@@ -21,6 +22,6 @@
 =======
 - Krystyna
 - Marco Reus
-- Haocheng
+
 ## Favorite Game
 - FFXIV
