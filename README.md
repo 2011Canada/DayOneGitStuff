@@ -7,6 +7,7 @@
 - Kenny
 - Aleks
 - Muhtasim
+- Hammad
 - Jinyeong
 - Samin
 - Henry
@@ -16,7 +17,16 @@
 - Tristan
 - Robert'); DROP TABLE students;--
 - Matthew
+- Hamza
 - Stephen
+  -Arjun
+- Arjun
+- Rous
+- Nidhi
+- Hamza
+- Uzair
+- # Manik
+- Manik
 - Antardeep
 - Heng
 - Ramninder
@@ -30,7 +40,12 @@
 - Rubber Duckie
 - Zebra
 - Cat
+- Horse
 - Wolf
+- dog
+- Horse
+- # Lion
+- Lion
 - Elephant
 
 ## Favourite Band
@@ -51,12 +66,9 @@
 - CR7
 - Krystyna
 - Marco Reus
-
-## Favorite Animal
-
-- Octopus
-- Dog
-- Elephant
+- Mesut Ozil
+- Kaka
+- Zlatan Ibrahimović
 
 ## Favorite Game
 
