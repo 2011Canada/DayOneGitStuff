@@ -4,23 +4,45 @@
 
 - Alec
 - Kelvin Trinh
-- Krystyna
+- Kenny
+- Aleks
 - Muhtasim
+- Jinyeong
+- Samin
+- Henry
+- Colin
+- Haocheng
+- Krystyna
+- Tristan
+- Robert'); DROP TABLE students;--
+- Matthew
 
-## Favorite Animal
+## Favourite Animal
 
 - Octopus
+- Ferrets
+- Dog
+- Rubber Duckie
+- Zebra
+- Cat
 - Wolf
 
-## Favorite Animal
+## Favourite Band
 
-- Octopus
+- The Tragically Hip
+- NF
+
+## Favourite Chips
+
+- All Dressed
+- Ketchup
+- Dill Pickle
 
 ## Favourite (spelled the correct way) soccer player
 
 - Lionel Messi
+- Marco Reus
 
-## Favorite Animal
+## Favorite Game
 
-- Octopus
-- Dog
+- FFXIV
