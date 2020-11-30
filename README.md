@@ -24,27 +24,15 @@
 - Rous
 - Hamza
 - Uzair
-  <<<<<<< HEAD
-  =======
-  <<<<<<< HEAD
-- # Manik
-  =======
-  > > > > > > > 0af3596bdfdb6dbc29b4d9822e2054324be7acb4
-  > > > > > > > d0833310e1870344c669f8fd36f7001b36765256
+- Nidhi
+- Hamza
+- Uzair
 - Manik
 - Antardeep
 - Heng
 - Ramninder
 - Azib
 - Stephen W
-<<<<<<< HEAD
-=======
-  <<<<<<< HEAD
-  =======
-
-> > > > > > > d0833310e1870344c669f8fd36f7001b36765256
-
->>>>>>> 10dc4979c6c1e4edea265ed1e4b503981aaea94e
 ## Favourite Animal
 
 - Octopus
@@ -57,13 +45,6 @@
 - Wolf
 - dog
 - Horse
-  <<<<<<< HEAD
-  =======
-  <<<<<<< HEAD
-- # Lion
-  =======
-  > > > > > > > 0af3596bdfdb6dbc29b4d9822e2054324be7acb4
-  > > > > > > > d0833310e1870344c669f8fd36f7001b36765256
 - Lion
 - Elephant
 
