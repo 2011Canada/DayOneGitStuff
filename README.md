@@ -3,12 +3,7 @@
 ## Name
 
 - Alec
-<<<<<<< HEAD
-  <<<<<<< HEAD
-- Andy
-=======
 - Kelvin Trinh
->>>>>>> bb838e6ecd2ad7380b328892d91b37e3372209f6
 - Kenny
 - Aleks
 - Muhtasim
@@ -23,6 +18,8 @@
 - Matthew
 - Stephen
 - Antardeep
+- Heng
+- Ramninder
 
 ## Favourite Animal
 
@@ -33,14 +30,10 @@
 - Zebra
 - Cat
 - Wolf
+- Elephant
 
 ## Favourite Band
 
-<<<<<<< HEAD
-## Favourite Band
-
-=======
->>>>>>> bb838e6ecd2ad7380b328892d91b37e3372209f6
 - The Tragically Hip
 - NF
 
@@ -66,7 +59,3 @@
 ## Favorite Game
 
 - FFXIV
-<<<<<<< HEAD
-  > > > > > > > 9489d45ac19b3bef8bcf1b1b0c3a6b055aa4f666
-=======
->>>>>>> bb838e6ecd2ad7380b328892d91b37e3372209f6
