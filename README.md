@@ -8,6 +8,7 @@
 - Samin 
 - Henry
 - Haocheng
+- Tristan
 
 ## Favorite Animal
 - Octopus
