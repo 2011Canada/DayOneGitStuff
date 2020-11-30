@@ -7,6 +7,7 @@
 - Jinyeong
 - Samin 
 - Henry
+- Azib
 
 ## Favorite Animal
 - Octopus
