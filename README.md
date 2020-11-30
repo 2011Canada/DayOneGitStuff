@@ -20,6 +20,7 @@
 - Arjun
 - Rous
 - Uzair
+- Manik
 =======
 - Antardeep
 - Heng
@@ -41,6 +42,7 @@
 - Wolf
 - dog
 - Horse
+- Lion
 =======
 - Elephant
 >>>>>>> 532f584f87a838ec9f0fafb448b623f976d5cc97
