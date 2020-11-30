@@ -16,6 +16,7 @@
 - Tristan
 - Robert'); DROP TABLE students;--
 - Matthew
+- Stephen
 
 ## Favourite Animal
 
@@ -42,6 +43,12 @@
 
 - Lionel Messi
 - Marco Reus
+
+## Favorite Animal
+
+- Octopus
+- Dog
+- Elephant
 
 ## Favorite Game
 
