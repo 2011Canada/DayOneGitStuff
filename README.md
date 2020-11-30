@@ -2,20 +2,23 @@
 
 ## Name
 - Alec
+- Aleks
+- Muhtasim
+- Jinyeong
+- Samin 
+- Henry
 - Colin
 
-## Favorite Animal
-- Octopus
-
-## Favourite Band
+## Favourite Band 
 - The Tragically Hip
-- Muhtasim
-
-- Samin 
 
 ## Favorite Animal
 - Octopus
 - Zebra
+- Cat
+
+## Favourite Chips
+- All Dressed
 
 ## Favourite (spelled the correct way) soccer player
 - Lionel Messi
@@ -25,3 +28,6 @@
 ## Favorite Animal
 - Octopus
 - Dog
+- Haocheng
+## Favorite Game
+- FFXIV
