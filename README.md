@@ -1,7 +1,7 @@
 # DayOneGitStuff
 
 ## Name
-- Alec
+- Heng Wang
 
 ## Favorite Animal
-- Octopus
+- Dogs
