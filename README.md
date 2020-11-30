@@ -31,6 +31,7 @@
   =======
   > > > > > > > 0af3596bdfdb6dbc29b4d9822e2054324be7acb4
   > > > > > > > d0833310e1870344c669f8fd36f7001b36765256
+- Manik
 - Antardeep
 - Heng
 - Ramninder
@@ -59,6 +60,7 @@
   =======
   > > > > > > > 0af3596bdfdb6dbc29b4d9822e2054324be7acb4
   > > > > > > > d0833310e1870344c669f8fd36f7001b36765256
+- Lion
 - Elephant
 
 ## Favourite Band
@@ -82,12 +84,6 @@
 - Mesut Ozil
 - Kaka
 - Zlatan Ibrahimović
-
-## Favorite Animal
-
-- Octopus
-- Dog
-- Elephant
 
 ## Favorite Game
 
