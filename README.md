@@ -17,11 +17,15 @@
 - Tristan
 - Robert'); DROP TABLE students;--
 - Matthew
+- Hamza
 - Stephen
+-Arjun
 - Arjun
 - Rous
 - Nidhi
+- Hamza
 - Uzair
+- Manik
 - Antardeep
 - Heng
 - Ramninder
@@ -35,6 +39,7 @@
 - Rubber Duckie
 - Zebra
 - Cat
+- Horse
 - Wolf
 - dog
 - Horse
@@ -54,6 +59,7 @@
 - Dill Pickle
 - Lightly Salted
 
+
 ## Favourite (spelled the correct way) soccer player
 
 - Lionel Messi
@@ -62,12 +68,6 @@
 - Marco Reus
 - Mesut Ozil
 - Kaka
-
-## Favorite Animal
-
-- Octopus
-- Dog
-- Elephant
 
 ## Favorite Game
 
