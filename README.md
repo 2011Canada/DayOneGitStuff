@@ -7,6 +7,7 @@
 - Kenny
 - Aleks
 - Muhtasim
+- Hammad
 - Jinyeong
 - Samin
 - Henry
@@ -17,8 +18,20 @@
 - Domanic
 - Robert'); DROP TABLE students;--
 - Matthew
+- Hamza
 - Stephen
+  -Arjun
+- Arjun
+- Rous
+- Hamza
+- Uzair
+- # Manik
+- Manik
+- Antardeep
+- Heng
 - Ramninder
+- Stephen W
+
 ## Favourite Animal
 
 - Octopus
@@ -27,7 +40,11 @@
 - Rubber Duckie
 - Zebra
 - Cat
+- Horse
 - Wolf
+- dog
+- Horse
+- Lion
 - Elephant
 
 ## Favourite Band
@@ -40,13 +57,19 @@
 - All Dressed
 - Ketchup
 - Dill Pickle
+- Lightly Salted
 
 ## Favourite (spelled the correct way) soccer player
-- Lionel Messi X2
+- Lionel Messi 
 - CR7
 - Marco Reus
+- Mesut Ozil
+- Kaka
+- Zlatan Ibrahimović
 
 ## Favorite Game
 
 - FFXIV
 
+## Favourite Activity 
+- sleep
