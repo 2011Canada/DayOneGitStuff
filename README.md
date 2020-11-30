@@ -5,8 +5,11 @@
 - Aleks
 - Muhtasim
 
+- Samin 
+
 ## Favorite Animal
 - Octopus
+- Zebra
 
 ## Favourite Chips
 - All Dressed
@@ -15,6 +18,7 @@
 - Lionel Messi
 =======
 - Krystyna
+- Marco Reus
 
 ## Favorite Animal
 - Octopus
