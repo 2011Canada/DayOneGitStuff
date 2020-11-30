@@ -2,7 +2,7 @@
 
 ## Name
 
-- Alec
+- Alec	
 - Kelvin Trinh
 - Kenny
 - Aleks
@@ -15,6 +15,7 @@
 - Haocheng
 - Krystyna
 - Tristan
+- Domanic
 - Robert'); DROP TABLE students;--
 - Matthew
 - Hamza
@@ -63,10 +64,8 @@
 - Lightly Salted
 
 ## Favourite (spelled the correct way) soccer player
-
-- Lionel Messi
+- Lionel Messi 
 - CR7
-- Krystyna
 - Marco Reus
 - Mesut Ozil
 - Kaka
@@ -75,3 +74,6 @@
 ## Favorite Game
 
 - FFXIV
+
+## Favourite Activity 
+- sleep
