@@ -23,6 +23,7 @@
   -Arjun
 - Arjun
 - Rous
+- Nidhi
 - Hamza
 - Uzair
 - # Manik
@@ -44,6 +45,7 @@
 - Wolf
 - dog
 - Horse
+- Lion
 - Lion
 - Elephant
 
