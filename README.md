@@ -11,33 +11,29 @@
 - Haocheng
 - Tristan
 
-## Favorite Animal
-- Octopus
-
 ## Name
 - Robert'); DROP TABLE students;--
 
 ## Favourite Animal
+- Octopus
+- Dog
 - Rubber Duckie
-=======
 - Zebra
 - Cat
 
 
 ## Favourite Band 
 - The Tragically Hip
+- NF 
 
 ## Favourite Chips
 - All Dressed
+- Ketchup
 
 ## Favourite (spelled the correct way) soccer player
 - Lionel Messi
 - Krystyna
 - Marco Reus
-
-## Favorite Animal
-- Octopus
-- Dog
 
 ## Favorite Game
 - FFXIV
