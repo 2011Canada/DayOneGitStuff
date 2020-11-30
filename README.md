@@ -1,45 +1,61 @@
 # DayOneGitStuff
 
 ## Name
+
 - Alec
+- Kelvin Trinh
 - Kenny
 - Aleks
 - Muhtasim
 - Jinyeong
-- Samin 
+- Samin
 - Henry
-<<<<<<< HEAD
-- Azib
-=======
 - Colin
 - Haocheng
 - Krystyna
 - Tristan
 - Robert'); DROP TABLE students;--
->>>>>>> fdafd7ec7f9ec149ce3c73508e39ac858b609e11
-
+- Matthew
+- Stephen
+- Heng
+- Ramninder
+- Azib
 
 ## Favourite Animal
+
 - Octopus
 - Ferrets
 - Dog
 - Rubber Duckie
 - Zebra
 - Cat
+- Wolf
+- Elephant
 
+## Favourite Band
 
-## Favourite Band 
 - The Tragically Hip
-- NF 
+- NF
 
 ## Favourite Chips
+
 - All Dressed
 - Ketchup
+- Dill Pickle
 
 ## Favourite (spelled the correct way) soccer player
+
 - Lionel Messi
+- CR7
 - Krystyna
 - Marco Reus
 
+## Favorite Animal
+
+- Octopus
+- Dog
+- Elephant
+
 ## Favorite Game
+
 - FFXIV
