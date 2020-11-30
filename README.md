@@ -38,6 +38,7 @@
 - All Dressed
 - Ketchup
 - Dill Pickle
+- Lightly Salted
 
 ## Favourite (spelled the correct way) soccer player
 
