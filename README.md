@@ -14,6 +14,7 @@
 - Tristan
 - Robert'); DROP TABLE students;--
 - Matthew
+- Hamza
 
 ## Favourite Animal
 - Octopus
@@ -22,6 +23,7 @@
 - Rubber Duckie
 - Zebra
 - Cat
+- Horse
 
 
 ## Favourite Band 
@@ -32,6 +34,7 @@
 - All Dressed
 - Ketchup
 - Dill Pickle
+
 ## Favourite (spelled the correct way) soccer player
 - Lionel Messi
 - Krystyna
