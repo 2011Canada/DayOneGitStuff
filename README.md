@@ -23,7 +23,7 @@
 - Tristan
 - Domanic
 - Robert'); DROP TABLE students;--
-
+- Matthew
 
 ## Favourite Animal
 - Octopus
@@ -41,7 +41,7 @@
 ## Favourite Chips
 - All Dressed
 - Ketchup
-
+- Dill Pickle
 ## Favourite (spelled the correct way) soccer player
 - Lionel Messi X2
 - Marco Reus
