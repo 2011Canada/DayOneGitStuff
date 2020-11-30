@@ -18,6 +18,7 @@
 - Matthew
 - Stephen
 - Heng
+- Ramninder
 
 ## Favourite Animal
 
@@ -28,6 +29,7 @@
 - Zebra
 - Cat
 - Wolf
+- Elephant
 
 ## Favourite Band
 
