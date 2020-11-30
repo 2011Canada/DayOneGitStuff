@@ -2,7 +2,7 @@
 
 ## Name
 - Alec
-<<<<<<< HEAD
+- Aleks
 - Muhtasim
 
 - Samin 
@@ -11,6 +11,9 @@
 - Octopus
 - Zebra
 
+## Favourite Chips
+- All Dressed
+=======
 ## Favourite (spelled the correct way) soccer player
 - Lionel Messi
 =======
@@ -21,4 +24,3 @@
 ## Favorite Animal
 - Octopus
 - Dog
->>>>>>> a1897c6c65760b6c738e5c251ae35016b64f8ba4
