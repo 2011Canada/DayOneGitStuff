@@ -3,8 +3,12 @@
 ## Name
 
 - Alec
+<<<<<<< HEAD
   <<<<<<< HEAD
 - Andy
+=======
+- Kelvin Trinh
+>>>>>>> bb838e6ecd2ad7380b328892d91b37e3372209f6
 - Kenny
 - Aleks
 - Muhtasim
@@ -27,9 +31,15 @@
 - Rubber Duckie
 - Zebra
 - Cat
+- Wolf
 
 ## Favourite Band
 
+<<<<<<< HEAD
+## Favourite Band
+
+=======
+>>>>>>> bb838e6ecd2ad7380b328892d91b37e3372209f6
 - The Tragically Hip
 - NF
 
@@ -42,7 +52,9 @@
 ## Favourite (spelled the correct way) soccer player
 
 - Lionel Messi
+- CR7
 - Krystyna
+=======
 - Marco Reus
 
 ## Favorite Animal
@@ -54,4 +66,7 @@
 ## Favorite Game
 
 - FFXIV
+<<<<<<< HEAD
   > > > > > > > 9489d45ac19b3bef8bcf1b1b0c3a6b055aa4f666
+=======
+>>>>>>> bb838e6ecd2ad7380b328892d91b37e3372209f6
