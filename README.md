@@ -4,7 +4,7 @@
 - Alec
 - Aleks
 - Muhtasim
-
+- Jinyeong
 - Samin 
 
 ## Favorite Animal
