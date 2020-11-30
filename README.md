@@ -9,21 +9,14 @@
 - Jinyeong
 - Samin
 - Henry
-<<<<<<< HEAD
-- Heng
-
-## Favorite Animal
-
-=======
 - Colin
 - Haocheng
 - Krystyna
 - Tristan
 - Robert'); DROP TABLE students;--
 
-
 ## Favourite Animal
->>>>>>> fdafd7ec7f9ec149ce3c73508e39ac858b609e11
+
 - Octopus
 - Ferrets
 - Dog
@@ -32,28 +25,21 @@
 - Cat
 - Dog
 
+## Favourite Band
 
-## Favourite Band 
 - The Tragically Hip
-- NF 
+- NF
 
 ## Favourite Chips
 
 - All Dressed
-<<<<<<< HEAD
-=======
 - Ketchup
->>>>>>> fdafd7ec7f9ec149ce3c73508e39ac858b609e11
 
 ## Favourite (spelled the correct way) soccer player
 
 - Lionel Messi
 - Krystyna
 - Marco Reus
-<<<<<<< HEAD
-- Haocheng
-=======
->>>>>>> fdafd7ec7f9ec149ce3c73508e39ac858b609e11
 
 ## Favorite Game
 
