@@ -19,6 +19,7 @@
 - Stephen
 - Arjun
 - Rous
+- Nidhi
 =======
 - Antardeep
 - Heng
@@ -27,7 +28,8 @@
 >>>>>>> 532f584f87a838ec9f0fafb448b623f976d5cc97
 =======
 - Stephen W
->>>>>>> b10f4ef0397b312a449eb57407ea934d74b05061
+>>>>>>> b10
+f4ef0397b312a449eb57407ea934d74b05061
 
 ## Favourite Animal
 
@@ -40,6 +42,7 @@
 - Wolf
 - dog
 - Horse
+- Lion
 =======
 - Elephant
 >>>>>>> 532f584f87a838ec9f0fafb448b623f976d5cc97
