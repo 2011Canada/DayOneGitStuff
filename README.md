@@ -17,6 +17,7 @@
 - Robert'); DROP TABLE students;--
 - Matthew
 - Stephen
+-Arjun
 
 ## Favourite Animal
 
@@ -27,6 +28,7 @@
 - Zebra
 - Cat
 - Wolf
+- dog
 
 ## Favourite Band
 
