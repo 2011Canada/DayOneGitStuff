@@ -19,6 +19,7 @@
 =======
 ## Favourite (spelled the correct way) soccer player
 - Lionel Messi
+- CR7
 =======
 - Krystyna
 - Marco Reus
