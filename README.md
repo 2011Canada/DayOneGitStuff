@@ -2,7 +2,7 @@
 
 ## Name
 
-- Alec
+- Alec	
 - Kelvin Trinh
 - Kenny
 - Aleks
@@ -15,20 +15,26 @@
 - Haocheng
 - Krystyna
 - Tristan
+- Domanic
 - Robert'); DROP TABLE students;--
 - Matthew
 - Hamza
 - Stephen
--Arjun
+  -Arjun
 - Arjun
 - Rous
+- Hamza
+- Uzair
+- Nidhi
 - Hamza
 - Uzair
 - Manik
 - Antardeep
 - Heng
 - Ramninder
-- Stephen W
+- Azib
+- Stephen W 
+- Mahesh
 
 ## Favourite Animal
 
@@ -46,7 +52,6 @@
 - Elephant
 - 
 
-
 ## Favourite Band
 
 - The Tragically Hip
@@ -59,19 +64,22 @@
 - Dill Pickle
 - Lightly Salted
 
-
 ## Favourite (spelled the correct way) soccer player
-
-- Lionel Messi
+- Lionel Messi 
 - CR7
-- Krystyna
 - Marco Reus
 - Mesut Ozil
 - Kaka
+- Zlatan Ibrahimović
 
 ## Favorite Game
 
 - FFXIV
 
+<<<<<<< HEAD
 ##Favorite Singer
 Taylor Swift
+=======
+## Favourite Activity 
+- sleep
+>>>>>>> f33b2ab6323467d34407ff545a8a960d447ed08a
