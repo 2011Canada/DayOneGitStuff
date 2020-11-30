@@ -44,6 +44,7 @@
 - Horse
 - Lion
 - Elephant
+- 
 
 
 ## Favourite Band
@@ -71,3 +72,6 @@
 ## Favorite Game
 
 - FFXIV
+
+##Favorite Singer
+Taylor Swift
