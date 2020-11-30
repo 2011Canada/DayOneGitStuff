@@ -17,10 +17,11 @@
 - Robert'); DROP TABLE students;--
 - Matthew
 - Stephen
+- Antardeep
 - Heng
 - Ramninder
 - Azib
-
+- Stephen W
 ## Favourite Animal
 
 - Octopus
@@ -42,6 +43,7 @@
 - All Dressed
 - Ketchup
 - Dill Pickle
+- Lightly Salted
 
 ## Favourite (spelled the correct way) soccer player
 
