@@ -2,21 +2,44 @@
 
 ## Name
 - Alec
-<<<<<<< HEAD
+- Kenny
+- Aleks
 - Muhtasim
+- Jinyeong
+- Samin 
+- Henry
+- Colin
+- Haocheng
+- Krystyna
+- Tristan
+- Robert'); DROP TABLE students;--
 - Stephen
 
-## Favorite Animal
+## Favourite Animal
 - Octopus
+- Ferrets
+- Dog
+- Rubber Duckie
+- Zebra
+- Cat
+
+## Favourite Band 
+- The Tragically Hip
+- NF 
+
+## Favourite Chips
+- All Dressed
+- Ketchup
 
 ## Favourite (spelled the correct way) soccer player
 - Lionel Messi
-=======
 - Krystyna
+- Marco Reus
 
 ## Favorite Animal
 - Octopus
 - Dog
 - Elephant
->>>>>>> a1897c6c65760b6c738e5c251ae35016b64f8ba4
->>>>>>> b2644c761182cc5728e6ec8edcc784c496731c90
+
+## Favorite Game
+- FFXIV
