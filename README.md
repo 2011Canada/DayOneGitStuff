@@ -7,6 +7,7 @@
 - Kenny
 - Aleks
 - Muhtasim
+- Hammad
 - Jinyeong
 - Samin
 - Henry
@@ -21,11 +22,24 @@
 -Arjun
 - Arjun
 - Rous
+- Hamza
 - Uzair
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+- Manik
+=======
+=======
+>>>>>>> 0af3596bdfdb6dbc29b4d9822e2054324be7acb4
+>>>>>>> d0833310e1870344c669f8fd36f7001b36765256
 - Antardeep
 - Heng
 - Ramninder
 - Stephen W
+<<<<<<< HEAD
+=======
+
+>>>>>>> d0833310e1870344c669f8fd36f7001b36765256
 
 ## Favourite Animal
 
@@ -39,6 +53,14 @@
 - Wolf
 - dog
 - Horse
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+- Lion
+=======
+=======
+>>>>>>> 0af3596bdfdb6dbc29b4d9822e2054324be7acb4
+>>>>>>> d0833310e1870344c669f8fd36f7001b36765256
 - Elephant
 
 
@@ -61,6 +83,7 @@
 - CR7
 - Krystyna
 - Marco Reus
+- Mesut Ozil
 - Kaka
 
 ## Favorite Animal
