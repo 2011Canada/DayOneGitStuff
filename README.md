@@ -6,10 +6,12 @@
 - Muhtasim
 - Jinyeong
 - Samin 
+- Henry
 
 ## Favorite Animal
 - Octopus
 - Zebra
+- Cat
 
 ## Favourite Chips
 - All Dressed
@@ -20,7 +22,5 @@
 - Krystyna
 - Marco Reus
 - Haocheng
-
-## Favorite Animal
-- Octopus
-- Dog
+## Favorite Game
+- FFXIV
